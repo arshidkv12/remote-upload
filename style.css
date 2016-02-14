@@ -1,0 +1,23 @@
+#file_url{
+padding: 15px 10px;
+width: 70%;
+background: #f7f7f7;
+border: 3px solid #eee;
+}
+
+input.submit {
+    font-family: sans-serif;
+    width: 70%;
+    text-align: center;
+    padding-bottom: 33px;
+    font-weight: bold;
+}
+#srt_form p {
+    margin: 15px 0 10px 0;
+}
+
+#loader {
+    margin-top: 15px;
+    font-weight: 800;
+    font-size: 20px;
+}
