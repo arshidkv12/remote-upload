@@ -1,6 +1,5 @@
 === Remote Upload ===
 Contributors: arshidkv12
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=H5F3Z6S3MNTXA&lc=IN&item_name=wp%2dlogin%2dlimit&amount=5%2e00&currency_code=USD&button_subtype=services&bn=PP%2dBuyNowBF%3abtn_buynowCC_LG%2egif%3aNonHosted
 Tags:  direct upload, remote upload, media manager, Attachment, upload, files, images, backup 
 Requires at least: 2.8
 Tested up to: 4.4
